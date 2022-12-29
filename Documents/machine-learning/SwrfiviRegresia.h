@@ -1,6 +1,8 @@
 #ifndef ML_LINEARREGRESSION_H
 #define ML_LINEARREGRESSION_H
 
+// თემო ლომსაძე - მანქანური სწავლების პროექტი - წრფივი რეგრესიის კოდური იმპლემენტაცია
+
 class LinearRegression {
 
 public:

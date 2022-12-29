@@ -2,6 +2,8 @@
 #include "Utils.h"
 #include "SwrfiviRegresia.h"
 
+// თემო ლომსაძე - მანქანური სწავლების პროექტი - წრფივი რეგრესიის კოდური იმპლემენტაცია
+
 using namespace std;
 
 LinearRegression::LinearRegression(double x[], double y[], int m) {

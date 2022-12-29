@@ -1,6 +1,8 @@
 #ifndef ML_UTILS_H
 #define ML_UTILS_H
 
+// თემო ლომსაძე - მანქანური სწავლების პროექტი - წრფივი რეგრესიის კოდური იმპლემენტაცია
+
 #include <vector>
 class Utils {
 
